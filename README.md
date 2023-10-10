@@ -7,6 +7,7 @@ Thank you for taking the time to read this assessment. This repo simulates a pro
 - Testing
 - Cloud providers and cloud-native solutions
 
+
 ## Setup
 
 ### Prerequisites
